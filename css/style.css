@@ -2,3 +2,22 @@
     margin: 0;
     padding: 0;
 }
+
+ol,
+ul{
+    list-style: none;
+}
+
+/* all common css end here*/
+
+#header{
+    padding: 50px;
+    background-color: teal;
+}
+
+.container{
+    width: 1320px;
+    background-color: tomato;
+    padding: 20px,0;
+    margin: 0, auto;
+}
