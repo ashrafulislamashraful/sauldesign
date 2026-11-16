@@ -17,7 +17,22 @@ ul{
 
 .container{
     width: 1320px;
-    background-color: tomato;
-    padding: 20px,0;
     margin: 0, auto;
+}
+.menulist ul{
+    display: flex;
+    gap: 48px; 
+}
+.menuflax{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menulist ul li a{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #EEEEEE;
+    
+    ;
 }
